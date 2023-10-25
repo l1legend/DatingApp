@@ -1,16 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D3GP0HrP8DVcw4kUWSox4qC/cMDwTht7b+03+8Ujl/7iehCmdstBvoaFPtsK0oOWpQI0tZFYE+DG4aTCU90QJw==",
+  "dgSpecHash": "cw9I4RAY+X26WqA7IuuLloA+UVLQq5kaXrPoWMMZchI/KbbqE6fxclBkJdP43VU3T1cjJgMFgT3Jt/GhvyqrJA==",
   "success": true,
   "projectFilePath": "C:\\Users\\mintw\\OneDrive\\Documents\\GitHub\\DatingApp\\API\\API.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\mintw\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.11\\microsoft.aspnetcore.openapi.7.0.11.nupkg.sha512",
-    "C:\\Users\\mintw\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
-    "C:\\Users\\mintw\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
-    "C:\\Users\\mintw\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
-    "C:\\Users\\mintw\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
-    "C:\\Users\\mintw\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
-    "C:\\Users\\mintw\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

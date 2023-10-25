@@ -5,17 +5,10 @@ C:\Users\mintw\OneDrive\Documents\GitHub\DatingApp\API\bin\Debug\net7.0\API.deps
 C:\Users\mintw\OneDrive\Documents\GitHub\DatingApp\API\bin\Debug\net7.0\API.runtimeconfig.json
 C:\Users\mintw\OneDrive\Documents\GitHub\DatingApp\API\bin\Debug\net7.0\API.dll
 C:\Users\mintw\OneDrive\Documents\GitHub\DatingApp\API\bin\Debug\net7.0\API.pdb
-C:\Users\mintw\OneDrive\Documents\GitHub\DatingApp\API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
-C:\Users\mintw\OneDrive\Documents\GitHub\DatingApp\API\bin\Debug\net7.0\Microsoft.OpenApi.dll
-C:\Users\mintw\OneDrive\Documents\GitHub\DatingApp\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\mintw\OneDrive\Documents\GitHub\DatingApp\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\mintw\OneDrive\Documents\GitHub\DatingApp\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\mintw\OneDrive\Documents\GitHub\DatingApp\API\obj\Debug\net7.0\API.csproj.AssemblyReference.cache
 C:\Users\mintw\OneDrive\Documents\GitHub\DatingApp\API\obj\Debug\net7.0\API.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\mintw\OneDrive\Documents\GitHub\DatingApp\API\obj\Debug\net7.0\API.AssemblyInfoInputs.cache
 C:\Users\mintw\OneDrive\Documents\GitHub\DatingApp\API\obj\Debug\net7.0\API.AssemblyInfo.cs
 C:\Users\mintw\OneDrive\Documents\GitHub\DatingApp\API\obj\Debug\net7.0\API.csproj.CoreCompileInputs.cache
-C:\Users\mintw\OneDrive\Documents\GitHub\DatingApp\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\mintw\OneDrive\Documents\GitHub\DatingApp\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\mintw\OneDrive\Documents\GitHub\DatingApp\API\obj\Debug\net7.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
 C:\Users\mintw\OneDrive\Documents\GitHub\DatingApp\API\obj\Debug\net7.0\staticwebassets\msbuild.build.API.props
@@ -25,7 +18,6 @@ C:\Users\mintw\OneDrive\Documents\GitHub\DatingApp\API\obj\Debug\net7.0\staticwe
 C:\Users\mintw\OneDrive\Documents\GitHub\DatingApp\API\obj\Debug\net7.0\staticwebassets.build.json
 C:\Users\mintw\OneDrive\Documents\GitHub\DatingApp\API\obj\Debug\net7.0\staticwebassets.development.json
 C:\Users\mintw\OneDrive\Documents\GitHub\DatingApp\API\obj\Debug\net7.0\scopedcss\bundle\API.styles.css
-C:\Users\mintw\OneDrive\Documents\GitHub\DatingApp\API\obj\Debug\net7.0\API.csproj.CopyComplete
 C:\Users\mintw\OneDrive\Documents\GitHub\DatingApp\API\obj\Debug\net7.0\API.dll
 C:\Users\mintw\OneDrive\Documents\GitHub\DatingApp\API\obj\Debug\net7.0\refint\API.dll
 C:\Users\mintw\OneDrive\Documents\GitHub\DatingApp\API\obj\Debug\net7.0\API.pdb

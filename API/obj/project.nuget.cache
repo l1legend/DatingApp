@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i5cPU5wNNSK3JUVxmY+9FnFeP2a0hA+jO0nFsShStvZrbaL6hO3baWuu+fsFF7LLdG6bz8OG5kv2m3xrPW9bKQ==",
+  "dgSpecHash": "geqBZ7YtlQmO5YwmVKyhUXHWhVXzNZV6ulPZ1c6gBc+leogfT+TMxjBj8donvAm6fY/HLGHmAo32c8gsyrv9MQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mintw\\OneDrive\\Documents\\GitHub\\DatingApp\\APi\\API.csproj",
+  "projectFilePath": "C:\\Users\\mintw\\OneDrive\\Documents\\GitHub\\DatingApp\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mintw\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\mintw\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.13\\microsoft.data.sqlite.core.7.0.13.nupkg.sha512",

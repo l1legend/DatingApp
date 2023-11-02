@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mintw\\OneDrive\\Documents\\GitHub\\DatingApp\\API\\API.csproj": {}
+    "C:\\Users\\mintw\\OneDrive\\Documents\\GitHub\\DatingApp\\api\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mintw\\OneDrive\\Documents\\GitHub\\DatingApp\\API\\API.csproj": {
+    "C:\\Users\\mintw\\OneDrive\\Documents\\GitHub\\DatingApp\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mintw\\OneDrive\\Documents\\GitHub\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\mintw\\OneDrive\\Documents\\GitHub\\DatingApp\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\mintw\\OneDrive\\Documents\\GitHub\\DatingApp\\API\\API.csproj",
+        "projectPath": "C:\\Users\\mintw\\OneDrive\\Documents\\GitHub\\DatingApp\\api\\API.csproj",
         "packagesPath": "C:\\Users\\mintw\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mintw\\OneDrive\\Documents\\GitHub\\DatingApp\\API\\obj\\",
+        "outputPath": "C:\\Users\\mintw\\OneDrive\\Documents\\GitHub\\DatingApp\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mintw\\AppData\\Roaming\\NuGet\\NuGet.Config",

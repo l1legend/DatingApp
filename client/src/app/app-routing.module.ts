@@ -5,10 +5,11 @@ import { MembersListComponent } from './members/members-list/members-list.compon
 import { MembersDetailComponent } from './members/members-detail/members-detail.component';
 import { ListsComponent } from './lists/lists.component';
 import { MessagesComponent } from './messages/messages.component';
+import { authGuard } from './_guards/auth.guard';
 
 const routes: Routes = [
   {path: '', component: HomeComponent},
-  {path: 'members', component: MembersListComponent},
+  {path: 'members', component: MembersListComponent, canActivate: [authGuard]},
   {path: 'member/:id', component: MembersDetailComponent},
   {path: 'lists', component: ListsComponent},
   {path: 'messages', component: MessagesComponent},

@@ -7,7 +7,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./test-error.component.css']
 })
 export class TestErrorComponent {
-  baseUrl = 'https://localhost:5001/api';
+  baseUrl = 'https://localhost:5001/api/';
 
   constructor(private http: HttpClient) {}
 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mintw\\OneDrive\\Documents\\GitHub\\DatingApp\\api\\API.csproj": {}
+    "C:\\Users\\mintw\\OneDrive\\Documents\\GitHub\\DatingApp\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mintw\\OneDrive\\Documents\\GitHub\\DatingApp\\api\\API.csproj": {
+    "C:\\Users\\mintw\\OneDrive\\Documents\\GitHub\\DatingApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mintw\\OneDrive\\Documents\\GitHub\\DatingApp\\api\\API.csproj",
+        "projectUniqueName": "C:\\Users\\mintw\\OneDrive\\Documents\\GitHub\\DatingApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\mintw\\OneDrive\\Documents\\GitHub\\DatingApp\\api\\API.csproj",
+        "projectPath": "C:\\Users\\mintw\\OneDrive\\Documents\\GitHub\\DatingApp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\mintw\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mintw\\OneDrive\\Documents\\GitHub\\DatingApp\\api\\obj\\",
+        "outputPath": "C:\\Users\\mintw\\OneDrive\\Documents\\GitHub\\DatingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mintw\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
               "version": "[7.0.13, )"

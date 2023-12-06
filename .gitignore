@@ -13,3 +13,5 @@ API/obj/Debug/net7.0/API.dll
 *.pdb
 *.dll
 API/obj/project.nuget.cache
+API/bin/Debug/net7.0/API.dll
+API/bin/Debug/net7.0/API.dll

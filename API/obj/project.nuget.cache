@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T1a8Z5xP0JjFRvfCowtYdGC6vLkXk5Ib4+qkN6fhqVq97Z69lLc3R6oI1dFN08byXn0W1thKFD0lRqhtKR5W3g==",
+  "dgSpecHash": "oYcZVu9gv5YW+4p+r1qEsvJJC06CBfG4zeltLbZJv7V97z8LSObUH51gKIKz0JKqglU+XWVnVGK+N2A1fbgwKw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mintw\\OneDrive\\Documents\\GitHub\\DatingApp\\api\\API.csproj",
+  "projectFilePath": "C:\\Users\\mintw\\OneDrive\\Documents\\GitHub\\DatingApp\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mintw\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\mintw\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

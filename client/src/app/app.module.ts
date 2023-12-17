@@ -27,7 +27,6 @@ import { JwtInterceptor } from './_interceptors/jwt.interceptor';
     HomeComponent,
     RegisterComponent,
     MembersListComponent,
-    MembersDetailComponent,
     ListsComponent,
     MessagesComponent,
     TestErrorComponent,

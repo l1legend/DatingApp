@@ -1,15 +1,21 @@
+import { TabsModule } from 'ngx-bootstrap/tabs';
+import { CommonModule } from '@angular/common';
 import { Component } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
 import { Member } from 'src/app/_models/member';
 import { MembersService } from 'src/app/_services/members.service';
+import { GalleryItem, GalleryModule } from 'ng-gallery';
 
 @Component({
   selector: 'app-members-detail',
+  standalone: true,
   templateUrl: './members-detail.component.html',
-  styleUrls: ['./members-detail.component.css']
+  styleUrls: ['./members-detail.component.css'],
+  imports: [CommonModule, TabsModule, GalleryModule]
 })
 export class MembersDetailComponent {
   member: Member | undefined;
+  image: GalleryItem[] = [];
 
   constructor(private memberService: MembersService, private route: ActivatedRoute) {}
 
@@ -23,5 +29,12 @@ export class MembersDetailComponent {
     this.memberService.getMember(username).subscribe({
       next: member => this.member = member
     })
+  }
+
+  getImages() {
+    if (!this.member) return;
+    for (const photo of this.member?.photos) {
+
+    }
   }
 }
